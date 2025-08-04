@@ -10,8 +10,8 @@ Kelime Tahmin Oyunu, **verilen harflerle anlamlı kelimeler türeterek puan ve a
 
 Proje, uçtan uca tüm aşamalarında titizlikle geliştirilmiştir:
 
-* Frontend arayüzünün tasarımı ve Angular 19 kullanılarak yüksek performanslı SSR (Server Side Rendering) altyapısı kurulumu
-* Backend sunucunun NestJS ile güçlü ve esnek bir mimari üzerine inşası
+* Kullanıcı arayüzünün tasarımı ve Angular 20 kullanılarak yüksek performanslı SSR (Server Side Rendering) altyapısı kurulumu
+* Sunucu tarafının NestJS ile güçlü ve esnek bir mimari üzerine inşası
 * Gerçek zamanlı veri akışı, oyun sekronizasyonu ve hile girişimlerinin önlenmesi için Socket.IO altyapısının kurulumu
 * MongoDB ve Mongoose kullanılarak verilerin depolanması
 * Kimlik doğrulama sistemlerinin JWT ve Google OAuth 2.0 ile güvenli biçimde entegrasyonu
@@ -19,7 +19,7 @@ Proje, uçtan uca tüm aşamalarında titizlikle geliştirilmiştir:
 
 ## ⚙️ Kullanılan Ana Teknolojiler
 
-* **Frontend:** Angular 19 (SSR), Bootstrap 5, Socket.IO Client 4
+* **Frontend:** Angular 20 (SSR), Bootstrap 5, Socket.IO Client 4
 * **Backend:** NestJS 11, MongoDB - Mongoose, Passport (JWT & Google OAuth 2.0), Socket.IO 4 Gateway
 * **Sunucu & Altyapı:** Google Cloud VM Instance, Linux (Ubuntu), Nginx, PM2, SSL (Let's Encrypt)
 
